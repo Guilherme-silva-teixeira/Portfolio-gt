@@ -105,3 +105,17 @@ section #main_sec
     font-size: 0.9em;
     color: #333;
 }
+
+#scrollToBottom
+{
+    height: 77px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+    align-items: center;
+    font-family: 'poppins',sans-serif;
+    font-size: 1.3em;
+}
